@@ -12,7 +12,7 @@ console.log("Olá " + nome);
 function oi() {
     console.log("Oi tudo bem ?")
 }
-  
+    
 console.log("Antes da função");
 
 // função async (assincrona) - roda não necessariamente na mesma ordem de linhas que foi escrita
